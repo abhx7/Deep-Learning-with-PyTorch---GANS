@@ -1,1 +1,1 @@
-# Jovian-DeepLearningwithPyTorch-GANS
+# Deep Learning with PyTorch - GANS
