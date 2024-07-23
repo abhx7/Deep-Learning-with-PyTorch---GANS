@@ -1,7 +1,7 @@
 # Deep Learning with PyTorch - GANS
 “Deep Learning with PyTorch: Zero to GANs”.
 
-This course is taught by Jovian.ml, a project management and collaboration platform for machine learning.
+This course is taught by Aakash N S  of Jovian.ml, a project management and collaboration platform for machine learning.
 
 ## Course Contensts
 The course is divided into 6 video lectures including interactive Jupyter notebooks. Each lecture will be around 2 hours long.
