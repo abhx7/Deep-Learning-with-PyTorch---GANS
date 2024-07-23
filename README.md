@@ -3,7 +3,7 @@
 
 This course is taught by Aakash N S  of Jovian.ml, a project management and collaboration platform for machine learning.
 
-## Course Contensts
+## Course Contents
 The course is divided into 6 video lectures including interactive Jupyter notebooks. Each lecture will be around 2 hours long.
 
 - Lesson 1: PyTorch Basics - Tensors & Gradients
@@ -19,7 +19,7 @@ The course is divided into 6 video lectures including interactive Jupyter notebo
 - Week 2: Image Classification
 - Week 3: Feedforward neural networks
 
-###
+### 
 - Course Project
 - Kaggle In-Class Competition
 - Certificate of Completion (Paid)
