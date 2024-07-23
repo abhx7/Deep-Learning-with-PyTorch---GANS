@@ -15,11 +15,11 @@ The course is divided into 6 video lectures including interactive Jupyter notebo
 
 
 ### Weekly Assignments
-Week 1: Linear Regression
-Week 2: Image Classification
-Week 3: Feedforward neural networks
+- Week 1: Linear Regression
+- Week 2: Image Classification
+- Week 3: Feedforward neural networks
 
 ###
-Course Project
-Kaggle In-Class Competition
-Certificate of Completion (Paid)
+- Course Project
+- Kaggle In-Class Competition
+- Certificate of Completion (Paid)
