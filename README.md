@@ -3,7 +3,7 @@
 
 This course is taught by Jovian.ml, a project management and collaboration platform for machine learning.
 
-## Syllabus
+## Course Contensts
 The course is divided into 6 video lectures including interactive Jupyter notebooks. Each lecture will be around 2 hours long.
 
 - Lesson 1: PyTorch Basics - Tensors & Gradients
