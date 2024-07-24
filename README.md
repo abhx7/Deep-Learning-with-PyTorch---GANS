@@ -4,7 +4,7 @@
 This course is taught by Aakash N S  of Jovian.ml, a project management and collaboration platform for machine learning.
 
 ## Course Contents
-The course is divided into 6 video lectures including interactive Jupyter notebooks. Each lecture will be around 2 hours long.
+The course is divided into 6 video lectures including interactive Jupyter notebooks. Each lecture is around 2 hours long.
 
 - Lesson 1: PyTorch Basics - Tensors & Gradients
 - Lesson 2: Working with Images and Logistic Regression
